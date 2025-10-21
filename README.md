@@ -21,7 +21,7 @@ Each task demonstrates **industry-standard design and simulation workflows** usi
 This work is conducted under the academic supervision of:
 
 - **Instructor:** *Dr. Paritosh Chamola Sir*  
-- **Head of Department:** *Dr. Anand Kumar Singh*  
+- **Head of Department:** *Dr. Anand Kumar Singh Sir*  
 - **Department:** Electronics Engineering(VLSI, Design & Technology)  
 - **Institute:** Vivekananda Institute of Professional Studies – Technical Campus (VIPS-TC), New Delhi  
 
